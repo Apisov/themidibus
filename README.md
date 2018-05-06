@@ -1,3 +1,7 @@
+_Slightly modified version to make it work as jar library in java project_
+
+The trick for using Processing first project in Java project was copied from [here](https://github.com/sojamo/oscp5)
+
 The MidiBus is a MIDI library for [Processing](http://www.processing.org/) which provides a fast and easy way to send and receive MIDI data. <!--more-->The MidiBus is desgined primarily for real time MIDI applications. It's focused on MIDI I/O and keeps the frills to a minimum; currently it has no built in sequencer, file read/write, MIDI recording/playback.
 
 # Installation
